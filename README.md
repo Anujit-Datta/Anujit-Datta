@@ -18,7 +18,7 @@
 
 <br><br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3>Languages and Tools:</h3>
 
 <div align="center" style="white-space: nowrap;">
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40"/>
